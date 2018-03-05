@@ -92,7 +92,7 @@ class App extends Component {
             <tbody>
               <tr>
                 <td colSpan={2}>
-                  <img src="assets/docs/img/graceHopper.jpg" alt="graceHopper" />
+                  <img src="../public/img/graceHopper.jpg" alt="graceHopper" />
                   <p>Rear Admiral Grace M. Hopper, 1984</p>
                   <hr />
                 </td>
@@ -123,12 +123,12 @@ class App extends Component {
               <tr>
                 <th>Allegiance</th>
                 <td>
-                  <img src="assets/docs/img/bUE.png" alt="Bandera Estados Unidos" />United States of America</td>
+                  <img src="../public/assets/img/bUE.png" alt="Bandera Estados Unidos" />United States of America</td>
               </tr>
               <tr>
                 <th>Service/branch</th>
                 <td>
-                  <img src="assets/docs/img/bSN.png" alt />
+                  <img src="../public/assets/img/bSN.png" alt />
                   <a href="https://en.wikipedia.org/wiki/United_States_Navy" target="_blank">United States Navy</a>
                 </td>
               </tr>
@@ -139,7 +139,7 @@ class App extends Component {
               <tr>
                 <th>Rank</th>
                 <td>
-                  <img src="assets/docs/img/star.png" alt="star" />
+                  <img src="../public/assets/img/star.png" alt="star" />
                   <a href="https://en.wikipedia.org/wiki/Rear_admiral_(United_States)" target="_blank">Rear admiral </a> (lower half)</td>
               </tr>
             </tbody>
